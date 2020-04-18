@@ -1,7 +1,7 @@
-# C#'da Delegate ve Event Kullanımı
+# C#'da Delege ve Event Kullanımı
 
 Sayfalar arasında gezinirken UserControl ile bir navigation oluşturdum.
-Oluşturduğum navigation hangi sayfaya gitsem o sayfanın adını getirmek için delegate ve event kullandım.
+Oluşturduğum navigation hangi sayfaya gitsem o sayfanın adını getirmek için delege ve event kullandım.
 
 Faydalı olması dileğiyle.
 
